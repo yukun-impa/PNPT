@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "a48e49bb287c9136",
+    "type": "split",
+    "children": [
+      {
+        "id": "558379e191011e8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75968d39e864d881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacker Methodology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hacker Methodology"
+            }
+          },
+          {
+            "id": "f7527553eda0d050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MFP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MFP"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3dadb64645b76c1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e6ad41faac58f94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e048d20edf1d773",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f5868587a4c0bf63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bddbd306d75943cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9c41fdea7863254",
+    "type": "split",
+    "children": [
+      {
+        "id": "258268bd1b9738ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4fff988736b1ce7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Information Gathering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Information Gathering"
+            }
+          },
+          {
+            "id": "0c5d1b4089de4239",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Information Gathering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Information Gathering"
+            }
+          },
+          {
+            "id": "d640b9d3105e293d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8a8a21b4421500c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e236b36cdf2caf89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Information Gathering.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Information Gathering"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f7527553eda0d050",
+  "lastOpenFiles": [
+    "Hacker Methodology.md",
+    "MFP.md",
+    "AD/SMB.md",
+    "AD/IPV6.md",
+    "AD/LLMNR.md",
+    "Network/MAC Address.md",
+    "Network/TCPUDP.md",
+    "Network/Common Ports.md",
+    "Network/OSI.md",
+    "Network/Subnet.md",
+    "Untitled 1",
+    "AD",
+    "Information Gathering.md",
+    "README.md",
+    "Network/IP Address.md",
+    "Network"
+  ]
+}
